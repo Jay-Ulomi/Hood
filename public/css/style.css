@@ -365,9 +365,10 @@ textarea.input {
 \*----------------------------*/
 
 #top-header {
-  padding-top: 10px;
+    height: 5px;
+  padding-top: 5px;
   padding-bottom: 10px;
-  background-color: #FFD333;
+  background-color: #000000;
 }
 
 .header-links li {
@@ -398,9 +399,9 @@ textarea.input {
 \*----------------------------*/
 
 #header {
-  padding-top: 15px;
+  padding-top: 10px;
   padding-bottom: 15px;
-  background-color: #15161D;
+  background-color: #ffd333;
 }
 
 .header-logo {

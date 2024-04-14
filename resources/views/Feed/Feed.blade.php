@@ -3,7 +3,7 @@
 @include('Css')
 
 <body>
-@include('header')
+@include('Header')
 
 @include( 'nav' )
 

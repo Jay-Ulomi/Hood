@@ -1,17 +1,9 @@
 	<header>
 			<!-- TOP HEADER -->
-			{{-- <div id="top-header">
+			<div id="top-header">
 				<div class="container">
-					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-						<li><a href="#"><i class="fa fa-car"></i> Services</a></li>
-						<li><a href="{{route('feed')}}"><i class="fa fa-feed"></i>Feed</a></li>
-					</ul>
-					<ul class="header-links pull-right">
-						<li><a href="#"><i class="fa fa-user-o"></i> My Account</a></li>
-					</ul>
 				</div>
-			</div> --}}
+			</div>
 			<!-- /TOP HEADER -->
 
 			<!-- MAIN HEADER -->
@@ -27,6 +19,7 @@
 									<img src="./img/" alt="">
 
 								</a>
+                                <h5 class="logo " style="color: white;  margin-top:20px; ">HOOD</h5>
 							</div>
 						</div>
 						<!-- /LOGO -->
